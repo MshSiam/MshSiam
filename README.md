@@ -3,9 +3,9 @@
 #### I am a Junior Mern Stack Developer.
 
 
-- 🌱 I’m currently learning advance features of react js 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about mern stack react projects 
+- 🌱 I’m currently learning node js, redux js & next js. 
+- 👯 I’m looking to collaborate on github. 
+- 💬 Ask me about mern stack react projects .
 - 📫 How to reach me: siyamkenway@gmail.com 
 
 ### Languages and Tools:
