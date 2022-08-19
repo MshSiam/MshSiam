@@ -1,4 +1,4 @@
-<img align="right" alt="gif" width="full" src="https://i.ibb.co/B6Hj0Bh/full-stack-development.gif" />
+<img align="right" alt="gif" width="960" src="https://i.ibb.co/B6Hj0Bh/full-stack-development.gif" />
 <br />
 
 <h1 align="center">Hi 👋, I'm Md Sobhan Hossain Seam</h1>
