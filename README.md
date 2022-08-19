@@ -1,5 +1,6 @@
-<img align="right" alt="gif" width="400" src="https://i.ibb.co/B6Hj0Bh/full-stack-development.gif" />
+<img align="right" alt="gif" width="full" src="https://i.ibb.co/B6Hj0Bh/full-stack-development.gif" />
 <br />
+
 <h1 align="center">Hi 👋, I'm Md Sobhan Hossain Seam</h1>
 <h3 align="center">A passionate mern stack developer from Bangladesh</h3>
 
