@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **siyamkenway@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1ExB42ykSwaFeCI769p7hX_8jowCyz2X92JHCtHjEi2A/edit?usp=sharing](https://docs.google.com/document/d/1ExB42ykSwaFeCI769p7hX_8jowCyz2X92JHCtHjEi2A/edit?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ej4CQV9Tz8sekIEXLlfVnlw4UvJ0G_a5/view?usp=sharing](https://drive.google.com/file/d/1ej4CQV9Tz8sekIEXLlfVnlw4UvJ0G_a5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
